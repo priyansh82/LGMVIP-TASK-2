@@ -1,0 +1,10 @@
+.navbar{
+  background: #4c94b1;
+  border-radius: 0;
+}
+.navbar li a, .navbar .navbar-brand {
+  color: white !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  background-color: #fff ;
+} 
